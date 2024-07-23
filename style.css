@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.Background-1, .Background-2, .background-3 {
+    background-color: #060125;
+
+    height: 100%;
+    background-size: cover;
+}
+/* .Background-2{
+    background: linear-gradient( to top,#1b1d1b,#444443,#9aa5b1);
+
+    height: 100%;
+    background-size: cover;
+}
+.background-3 {
+    background: linear-gradient(#3090cc,#052a57);
+
+    height: 100%;
+    background-size: cover;
+} */
+
+.yellow-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 30px;
+    text-align: start;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.about-me-heading {
+    color: #44e9e3;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+
+.image-details {
+    width: 50%;
+    margin-left: 70px;
+    margin-bottom: 30px;
+    margin-top: 70px;
+    border-radius:100px;
+
+}
+
+p {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mini-image-details {
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.mini-containers-details {
+    width: 45%;
+    height: 45%;
+    background-color: #1f2933;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.linkedin-icon {
+    font-size: 4em;
+}
